@@ -1,0 +1,20 @@
+{
+    "name": "extroniks/module-catalog-theme-inherit-fix",
+    "description": "Adds workaround fix for applying special layout to category / product view",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stefan Erakovic"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Extroniks\\CatalogThemeInheritFix\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
