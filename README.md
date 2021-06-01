@@ -1,5 +1,6 @@
 # CatalogThemeInheritFix
 
+EDIT: Use patch from here instead of this module: https://gist.github.com/kirmorozov/38b26b88e959cb5487b0f722090749e1
 
 Provides a workaround for issues documented here:
 1. https://github.com/magento/magento2/issues/4330
